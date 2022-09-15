@@ -1,0 +1,21 @@
+{
+    "name": "sockets",
+    "version": "1.0.0",
+    "description": "sockets.io test",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "test"
+    },
+    "keywords": [
+        "sockets",
+        "node",
+        "npm"
+    ],
+    "author": "Luke Harby",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "socket.io": "^4.5.2"
+    }
+}
